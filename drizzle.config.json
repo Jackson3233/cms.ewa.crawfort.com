@@ -1,0 +1,8 @@
+{
+  "schema": "./src/payload-generated-schema.ts",
+  "out": "./drizzle",
+  "dialect": "postgresql",
+  "dbCredentials": {
+    "url": "postgresql://skyhawks92_sar:ETuv58nU4was5@cloud-86dc1c.managed-vps.net:5432/skyhawks92_db?sslmode=disable"
+  }
+}
